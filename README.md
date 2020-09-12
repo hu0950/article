@@ -8,5 +8,6 @@
 ### topic思考
 - [如何魔改项目依赖包代码](https://github.com/hu0950/article/blob/master/topic%E6%80%9D%E8%80%83/%E5%A6%82%E4%BD%95%E9%AD%94%E6%94%B9%E9%A1%B9%E7%9B%AE%E4%BE%9D%E8%B5%96%E5%8C%85%E4%BB%A3%E7%A0%81.md)
 - [如何拆分（抽象）组件]
+(https://github.com/hu0950/article/blob/master/topic%E6%80%9D%E8%80%83/%E5%A6%82%E4%BD%95%E6%8B%86%E5%88%86%EF%BC%88%E6%8A%BD%E8%B1%A1%EF%BC%89%E7%BB%84%E4%BB%B6.md)
 
 ### 项目踩坑总结
